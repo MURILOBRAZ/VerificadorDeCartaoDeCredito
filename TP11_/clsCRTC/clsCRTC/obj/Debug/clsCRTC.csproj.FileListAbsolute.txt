@@ -1,0 +1,6 @@
+D:\Games\Visual Studio\Projetos\TP11_202873\clsCRTC\clsCRTC\bin\Debug\clsCRTC.dll
+D:\Games\Visual Studio\Projetos\TP11_202873\clsCRTC\clsCRTC\bin\Debug\clsCRTC.pdb
+D:\Games\Visual Studio\Projetos\TP11_202873\clsCRTC\clsCRTC\obj\Debug\clsCRTC.csprojAssemblyReference.cache
+D:\Games\Visual Studio\Projetos\TP11_202873\clsCRTC\clsCRTC\obj\Debug\clsCRTC.csproj.CoreCompileInputs.cache
+D:\Games\Visual Studio\Projetos\TP11_202873\clsCRTC\clsCRTC\obj\Debug\clsCRTC.dll
+D:\Games\Visual Studio\Projetos\TP11_202873\clsCRTC\clsCRTC\obj\Debug\clsCRTC.pdb

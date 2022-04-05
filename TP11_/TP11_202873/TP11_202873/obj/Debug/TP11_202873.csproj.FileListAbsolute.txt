@@ -1,0 +1,12 @@
+D:\Games\Visual Studio\Projetos\TP11_202873\TP11_202873\TP11_202873\bin\Debug\TP11_202873.exe.config
+D:\Games\Visual Studio\Projetos\TP11_202873\TP11_202873\TP11_202873\bin\Debug\TP11_202873.exe
+D:\Games\Visual Studio\Projetos\TP11_202873\TP11_202873\TP11_202873\bin\Debug\TP11_202873.pdb
+D:\Games\Visual Studio\Projetos\TP11_202873\TP11_202873\TP11_202873\bin\Debug\clsCRTC.pdb
+D:\Games\Visual Studio\Projetos\TP11_202873\TP11_202873\TP11_202873\obj\Debug\TP11_202873.csprojAssemblyReference.cache
+D:\Games\Visual Studio\Projetos\TP11_202873\TP11_202873\TP11_202873\obj\Debug\TP11_202873.FrmCRC.resources
+D:\Games\Visual Studio\Projetos\TP11_202873\TP11_202873\TP11_202873\obj\Debug\TP11_202873.Properties.Resources.resources
+D:\Games\Visual Studio\Projetos\TP11_202873\TP11_202873\TP11_202873\obj\Debug\TP11_202873.csproj.GenerateResource.cache
+D:\Games\Visual Studio\Projetos\TP11_202873\TP11_202873\TP11_202873\obj\Debug\TP11_202873.csproj.CoreCompileInputs.cache
+D:\Games\Visual Studio\Projetos\TP11_202873\TP11_202873\TP11_202873\obj\Debug\TP11_202873.csproj.CopyComplete
+D:\Games\Visual Studio\Projetos\TP11_202873\TP11_202873\TP11_202873\obj\Debug\TP11_202873.exe
+D:\Games\Visual Studio\Projetos\TP11_202873\TP11_202873\TP11_202873\obj\Debug\TP11_202873.pdb
